@@ -16,6 +16,6 @@ int main(int argc, char *argv[]){
     //set timer interrupt to a random value
     srand(time(0));
 
-    
+    printf("hello");
 
 }
